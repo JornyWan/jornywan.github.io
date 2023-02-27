@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jornywan.github.io/2022/12/10/chengwan/</loc>
+    <loc>http://jornywan.github.io/2022/12/10/research_progress/</loc>
     
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-02-27</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://jornywan.github.io/2022/12/10/research_progress/</loc>
+    <loc>http://jornywan.github.io/2022/12/10/chengwan/</loc>
     
     <lastmod>2023-01-02</lastmod>
     
@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://jornywan.github.io/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
