@@ -17,7 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi there! I'm Cheng Wan, a first-year Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech.
+
+Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science (SIAT/CAS) supervised by Dr.Dan WU and Prof.Ye Li, focusing on blood pressure measurement.
+
+I have a strong interest in applying AI within the realm of biomedicine. My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of Speech Processing and Natural Language Processing.
+
+My previous work has been published in the Journal of Integration Technology, and I have another work accepted at the 2023 Conference of the IEEE Engineering in Medicine and Biology Society (EMBC).
+
+I am enthusiastic about further exploring these areas and enhancing my expertise. Thank you for taking the time to learn about me! If you're interested in connecting, please feel free to contact me at c.wan@gatech.edu.
+
+For more details, you can view my Curriculum Vitae.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
