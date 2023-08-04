@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cheng Wan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Georgia Institute of Technology"
+  bio              : "Georgia Tech"
   location         : "Atlanta, USA"
   employer         :
   pubmed           : 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JornyWan" # e.g., "github username"
+  github           : "JornyWan" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/chengwanjorny/" # e.g., "linkedin username"
+  linkedin         : "chengwanjorny" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
