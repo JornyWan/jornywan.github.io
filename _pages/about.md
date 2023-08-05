@@ -48,8 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions
-
+- Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 Chenjie Xie, **Cheng Wan**, Yishan Wang, Dan Wu*, and Ye Li, *Senior Member, IEEE* \\
 Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2023. \\
 [[Paper]()]
