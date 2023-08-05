@@ -50,7 +50,8 @@ Chenjie Xie, **Cheng Wan**, Yishan Wang, Dan Wu*, and Ye Li, *Senior Member, IEE
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](images/500x300.png), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](images/500x300.png)
+</div> A,B,C
 
 # 🎖 Honors and Awards
 - *2022.08* Merit Student Scholarship, Georgia Institute of Technology. 
