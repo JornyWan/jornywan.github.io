@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! I'm Cheng Wan, a first-year Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech.
 
-Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science (SIAT/CAS) supervised by Dr.Dan WU and Prof.Ye Li, focusing on blood pressure measurement.
+Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr.[Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
 
 I have a strong interest in applying AI within the realm of biomedicine. My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV and NLP.
 
