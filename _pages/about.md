@@ -53,16 +53,19 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08* Merit Student Scholarship, Georgia Institute of Technology. 
+- *2021.09 - 2022.07* Outstanding Scholarship (Top1), Nanchang Hangkong University.
+- *2020.09 - 2021.07* Outstanding Scholarship (Top10), Nanchang Hangkong University.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.08 - now*, Master's degree, Georgia Institute of Technology. 
+- *2018.09 - 2022.07*, Bachelor's degree, Nanchang Hangkong University.
+- *2021.11 - 2022.07*, Visiting Student, SIAT, Chinese Academic of Science.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.11 - 2022.07*, [SIAT, CAS](https://english.siat.ac.cn/), China.
+- *2021.06 - 2021.08*, [Eccom](https://www.eccom.com/en/), China.
+
+# 💬 Fun Facts
+- 🚣🏼‍♂️ Member at a Rowing team, I love rowing, hiking and playing all kinds of balls sports.
+- 🎤 I used to hold two livehouse shows for singing, more than 400 people in the audience.
