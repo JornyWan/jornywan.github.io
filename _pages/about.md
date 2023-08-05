@@ -38,9 +38,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
-Chenjie Xie, **Cheng Wan**, Yishan Wang, Dan Wu*, and Ye Li, *Senior Member, IEEE* \\
+C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
 Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2023. \\
 [[Paper](images/pdfs/embc.pdf)]
+
+- Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
+X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
+Journal of Integration Technology, 2022. \\
+[Paper](https://jcjs.siat.ac.cn/jcjs/article/abstract/202302004?st=search)
 
 # 🎖 Honors and Awards
 - *2022.08* Merit Student Scholarship, Georgia Institute of Technology. 
