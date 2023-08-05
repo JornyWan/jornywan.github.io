@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
 Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2023. \\
-[[Paper](images/pdfs/embc.pdf)]
+[Paper](pdfs/embc.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
 X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
