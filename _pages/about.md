@@ -36,15 +36,20 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications, Competition
+- MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
+**C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
+In *ICCV2023 Workshops, Workshop on visual object tracking and segmentation challenge*, 2023. \\
+[Results](https://www.votchallenge.net/index.html) (Top3 in Robust, Top10 in Quality).
+
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
-Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2023. \\
+*Conference of the IEEE Engineering in Medicine and Biology Society* (**EMBC**), 2023. \\
 [Paper](pdfs/embc.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
 X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
-Journal of Integration Technology, 2022. \\
+*Journal of Integration Technology*, 2022. \\
 [Paper](https://jcjs.siat.ac.cn/jcjs/article/abstract/202302004?st=search)
 
 # 🎖 Honors and Awards
