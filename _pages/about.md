@@ -54,8 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2022.08* Merit Student Scholarship, Georgia Institute of Technology. 
-- *2021.09 - 2022.07* Outstanding Scholarship (Top1), Nanchang Hangkong University.
-- *2020.09 - 2021.07* Outstanding Scholarship (Top10), Nanchang Hangkong University.
+- *2022.07* Outstanding Scholarship (Top1), Nanchang Hangkong University.
+- *2021.07* Outstanding Scholarship (Top10), Nanchang Hangkong University.
 
 # 📖 Educations
 - *2022.08 - now*, Master's degree, Georgia Institute of Technology. 
