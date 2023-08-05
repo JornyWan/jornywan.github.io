@@ -23,7 +23,7 @@ Prior to pursuing my Master's degree, I conducted research in the biomedical fie
 
 I have a strong interest in applying AI within the realm of biomedicine. My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV and NLP.
 
-I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu].
+I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
 
 I am enthusiastic about further exploring these areas and enhancing my expertise. Thank you for taking the time to learn about me! If you're interested in connecting, please feel free to contact me at **c.wan@gatech.edu**.
 
@@ -31,7 +31,7 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
-- *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on biomedical engineer supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu].(https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
+- *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on biomedical engineer supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
 
 # 📝 Publications, Competitions
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
