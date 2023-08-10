@@ -56,8 +56,8 @@ Our contribution can be briefly summarized as a new model **MCD-Net** and a new 
 [Project](https://github.com/JCATCV/MCD-Net) | [Dataset](https://pan.baidu.com/s/1q9ys6ITxQgtfgYltQbdyvA?pwd=lor3) (**Welcome to use our VID Dataset**)
 
 - Learning Chess from Transformer-Based Language Model \
-**C. Wan***, N. Wang*, C. Deng* \\
-Chess can be a testbed for evaluating language models on world state tracking. \\ 
+**C. Wan**, N. Wang*, C. Deng* \\
+Chess can be a testbed for evaluating language models on world state tracking. \\
 [Project](https://github.com/JornyWan/learning-chess-blindfolded)
 
 # 🎖 Honors and Awards
