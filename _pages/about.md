@@ -21,13 +21,15 @@ Hi there! I'm Cheng Wan, a first-year Master's student in Electrical and Compute
 
 Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr.[Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
 
-I have a strong interest in applying AI within the realm of biomedicine. My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV and NLP.
+I have a strong interest in applying AI within the realm of biomedicine. My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV.
 
 I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
 
-I am enthusiastic about further exploring these areas and enhancing my expertise. Thank you for taking the time to learn about me! If you're interested in connecting, please feel free to contact me at **c.wan@gatech.edu**.
+I am enthusiastic about further exploring these areas and enhancing my expertise. If you're interested in connecting, please feel free to contact me at **c.wan@gatech.edu**.
 
 For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
+
+I am actively looking for a Ph.D. position!
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
@@ -42,7 +44,7 @@ In *ICCV2023 Workshops, Workshop on visual object tracking and segmentation chal
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
 *Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC), 2023. \\
-[Paper](pdfs/embc.pdf)
+[Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
 X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
@@ -75,5 +77,8 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 - *2021.06 - 2021.08*, [Eccom](https://www.eccom.com/en/), China.
 
 # 💬 Fun Facts
-- 🚣🏼‍♂️ Member at a Rowing team, I love rowing, hiking and playing all kinds of balls sports.
+- 🚣🏼‍♂️ Member of a Rowing team, I love rowing, hiking and playing all kinds of balls sports.
 - 🎤 I used to hold two livehouse shows for singing, more than 400 people in the audience.
+- 🏆 I won 3rd place in the Intel Cup of CSGO in China.
+
+Thank you for taking the time to learn about me!
