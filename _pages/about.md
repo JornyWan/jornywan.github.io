@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Cheng Wan, a first-year Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech.
+Hi there! I'm Cheng Wan, a second-year Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech.
 
 Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr.[Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
 
@@ -38,17 +38,17 @@ I am actively looking for a Ph.D. position!
 # 📝 Publications, Competitions
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
-In *ICCV2023 Workshops, Workshop on visual object tracking and segmentation challenge*, 2023. \\
+*Visual Object Tracking and Segmentation challenge* (ICCV'2023 Workshop) \\
 [Results](https://www.votchallenge.net/index.html) (Top3 in Robust, Top10 in Quality).
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
-*Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC), 2023. \\
+*Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC'2023) \\
 [Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
 X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
-*Journal of Integration Technology*, 2022. \\
+*Journal of Integration Technology, 2022* \\
 [Paper](https://jcjs.siat.ac.cn/jcjs/article/abstract/202302004?st=search)
 
 # 📝 Open-Source Projects
@@ -74,7 +74,7 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 
 # 💻 Internships
 - *2021.11 - 2022.07*, [SIAT, CAS](https://english.siat.ac.cn/), China.
-- *2021.06 - 2021.08*, [Eccom](https://www.eccom.com/en/), China.
+- *2021.06 - 2021.08*, [ECCOM](https://www.eccom.com/en/), China.
 
 # 💬 Fun Facts
 - 🚣🏼‍♂️ Member of a Rowing team, I love rowing, hiking and playing all kinds of balls sports.
@@ -82,3 +82,7 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 - 🏆 I won 3rd place in the Intel Cup of CSGO in China.
 
 Thank you for taking the time to learn about me!
+
+
+
+
