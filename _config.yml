@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cheng Wan"
-description              : "Interests in AI for Biomedicine, Computer Vision and LLM."
+description              : "Interests in AI for Healthcare, Efficient Computer Vision and LLM."
 repository               : "JornyWan/jornywan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "c.wan@gatech.edu"
+  email            : "cwan38@gatech.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
