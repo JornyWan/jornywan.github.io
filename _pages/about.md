@@ -37,16 +37,16 @@ I am actively looking for a Ph.D. position!
 
 # 📝 Publications, Workshops
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
-**C. Wan**, C. Xie, F. Liu, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
+**C. Wan**, C. Xie, L. Liu, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
 [Under Review]
 
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
-*Visual Object Tracking and Segmentation challenge* (ICCV'2023 Workshop) \\
+*Visual Object Tracking and Segmentation Challenge* (ICCV'2023 Workshop) \\
 [Results](https://www.votchallenge.net/index.html) (Top3 in Robust, Top10 in Quality)
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
-C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
+C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
 *Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC'2023) \\
 [Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
 
