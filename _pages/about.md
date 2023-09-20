@@ -35,11 +35,15 @@ I am actively looking for a Ph.D. position!
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
 - *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on biomedical engineer supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
 
-# 📝 Publications, Competitions
+# 📝 Publications, Workshops
+- TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
+**C. Wan**, C. Xie, F. Liu, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
+[Under Review]
+
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
 *Visual Object Tracking and Segmentation challenge* (ICCV'2023 Workshop) \\
-[Results](https://www.votchallenge.net/index.html) (Top3 in Robust, Top10 in Quality).
+[Results](https://www.votchallenge.net/index.html) (Top3 in Robust, Top10 in Quality)
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, D. Wu*, and Y. Li, *Senior Member, IEEE* \\
