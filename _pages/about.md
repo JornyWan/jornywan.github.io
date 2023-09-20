@@ -47,7 +47,7 @@ I am actively looking for a Ph.D. position!
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
-*Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC'2023) \\
+_Conference of the IEEE Engineering in Medicine and Biology Society_ (EMBC'2023) \\
 [Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
