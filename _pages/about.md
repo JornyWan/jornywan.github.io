@@ -21,9 +21,9 @@ Hi there! I'm Cheng Wan, a second-year Master's student in Electrical and Comput
 
 Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr.[Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
 
-I have a strong interest in applying AI within the realm of biomedicine. My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV.
+I have a strong interest in applying AI within the realm of biomedicine (**Healthcare**). My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV.
 
-I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
+I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding]([https://www.nursing.emory.edu/initiatives/center-for-data-science](https://www.nursing.emory.edu/faculty-staff/ran-xiao)) and [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
 
 I am enthusiastic about further exploring these areas and enhancing my expertise. If you're interested in connecting, please feel free to contact me at **c.wan@gatech.edu**.
 
@@ -33,7 +33,7 @@ I am actively looking for a Ph.D. position!
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
-- *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on biomedical engineer supervised by [Cheng Ding](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
+- *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on AI for healthcare, supervised by Professor [Ran Xiao](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
 
 # 📝 Publications, Workshops
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
@@ -53,7 +53,7 @@ _Conference of the IEEE Engineering in Medicine and Biology Society_ (EMBC'2023)
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
 X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
 *Journal of Integration Technology, 2022* \\
-[Paper](https://jcjs.siat.ac.cn/jcjs/article/abstract/202302004?st=search)
+[Paper](https://jcjs.siat.ac.cn/jcjsen/article/abstract/202302004?st=search)
 
 # 📝 Open-Source Projects
 - MCD-Net: Towards Real-World RGB-D Video Inpainting \
