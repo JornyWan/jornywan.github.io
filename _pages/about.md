@@ -36,9 +36,13 @@ I am actively looking for a Ph.D. position!
 - *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on AI for healthcare, supervised by Professor [Ran Xiao](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
 
 # 📝 Publications, Workshops
+- Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
+Z. Li*, Z. Li*, M. Wu*, **C. Wan**, C. Wu* \\
+[ICLR'2024 Under Review]
+
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
 **C. Wan**, C. Xie, L. Liu, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
-[Under Review]
+[ICASSP'2024 Under Review]
 
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
