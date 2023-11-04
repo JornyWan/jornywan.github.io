@@ -29,7 +29,7 @@ I am enthusiastic about further exploring these areas and enhancing my expertise
 
 For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 
-I am actively looking for a Ph.D. position!
+**I am actively looking for a Ph.D. position!**
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
@@ -89,9 +89,7 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 - 🎤 I used to hold 3 livehouse shows for singing, more than 400 people were there.
 - 🏆 I won 3rd place in the Intel Cup of CSGO in China.
 
-Thank you for taking the time to learn about me!
-\\
-\\
+Thank you for taking the time to learn about me! \\
 
 
 
