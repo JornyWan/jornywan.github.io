@@ -47,7 +47,7 @@ Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**, C. Wu\* \\
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
 *Visual Object Tracking and Segmentation Challenge* [ICCV'2023 Workshop] \\
-[Results](https://www.votchallenge.net/index.html) (Top3 in Robust, Top10 in Quality)
+[Results](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf) (Top3 in Robust, Top10 in Quality)
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
