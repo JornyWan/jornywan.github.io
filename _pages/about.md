@@ -21,7 +21,7 @@ Hi there! I'm Cheng Wan, a second-year Master's student in Electrical and Comput
 
 Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr.[Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
 
-I have a strong interest in applying AI within the realm of biomedicine (**Healthcare**). My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of CV.
+I have a strong interest in applying AI within the area of biomedicine (**Healthcare**). My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of **Computer Vision**.
 
 I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding]([https://www.nursing.emory.edu/initiatives/center-for-data-science](https://www.nursing.emory.edu/faculty-staff/ran-xiao)) and [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
 
@@ -89,7 +89,8 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 - 🎤 I used to hold 3 livehouse shows for singing, more than 400 people were there.
 - 🏆 I won 3rd place in the Intel Cup of CSGO in China.
 
-Thank you for taking the time to learn about me! \
+Thank you for taking the time to learn about me!
+
 
 
 
