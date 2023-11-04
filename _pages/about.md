@@ -76,20 +76,22 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 - *2021.07* Outstanding Scholarship (Top10), Nanchang Hangkong University.
 
 # 📖 Educations
-- *2022.08 - now*, Master's degree, Georgia Institute of Technology. 
-- *2018.09 - 2022.07*, Bachelor's degree, Nanchang Hangkong University.
+- *2022.08 - now*, Master's degree, Georgia Institute of Technology.
 - *2021.11 - 2022.07*, Visiting Student, SIAT, Chinese Academic of Science.
+- *2018.09 - 2022.07*, Bachelor's degree, Nanchang Hangkong University.
 
 # 💻 Internships
 - *2021.11 - 2022.07*, [SIAT, CAS](https://english.siat.ac.cn/), China.
 - *2021.06 - 2021.08*, [ECCOM](https://www.eccom.com/en/), China.
 
 # 💬 Fun Facts
-- 🚣🏼‍♂️ Member of a Rowing team, I love rowing, hiking and playing all kinds of balls sports.
-- 🎤 I used to hold two livehouse shows for singing, more than 400 people in the audience.
+- 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and playing all kinds of balls sports.
+- 🎤 I used to hold 3 livehouse shows for singing, more than 400 people were there.
 - 🏆 I won 3rd place in the Intel Cup of CSGO in China.
 
 Thank you for taking the time to learn about me!
+\\
+\\
 
 
 
