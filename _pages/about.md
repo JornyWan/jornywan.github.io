@@ -89,7 +89,7 @@ Chess can be a testbed for evaluating language models on world state tracking. \
 - 🎤 I used to hold 3 livehouse shows for singing, more than 400 people were there.
 - 🏆 I won 3rd place in the Intel Cup of CSGO in China.
 
-Thank you for taking the time to learn about me! \\
+Thank you for taking the time to learn about me! \
 
 
 
