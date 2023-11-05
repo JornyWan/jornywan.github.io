@@ -38,7 +38,7 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 # 📝 Publications, Workshops
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**, C. Wu\* \\
-[ICLR'2024 Under Review]
+[ICLR'2024 Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
 **C. Wan**, C. Xie, L. Liu, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
