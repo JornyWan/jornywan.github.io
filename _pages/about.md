@@ -37,11 +37,11 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 
 # 📝 Publications, Workshops
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
-Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu\* \\
+Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu \\
 [ICLR'2024 Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
-**C. Wan**, C. Xie, L. Liu, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
+**C. Wan**, C. Xie, L. Liu, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
 [ICASSP'2024 Under Review]
 
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
@@ -50,12 +50,12 @@ Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu\* \\
 [Results](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf) (Top3 in Robust, Top10 in Quality)
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
-C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu*, and Y. Li, _Senior Member, IEEE_ \\
+C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
 _Conference of the IEEE Engineering in Medicine and Biology Society_ [EMBC'2023] \\
 [Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
-X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu* \\
+X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu \\
 *Journal of Integration Technology, 2022* \\
 [Paper](https://jcjs.siat.ac.cn/jcjsen/article/abstract/202302004?st=search)
 
