@@ -36,6 +36,10 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 - *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on AI for healthcare, supervised by Professor [Ran Xiao](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
 
 # 📝 Publications, Workshops
+- Swift Parameter-free Attention Network for Efficient Super-Resolution \
+**C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen\\
+[CVPR'2024 Under Review]()
+
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu \\
 [ICLR'2024 Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
