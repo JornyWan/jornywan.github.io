@@ -37,8 +37,8 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 
 # 📝 Publications, Workshops
 - Swift Parameter-free Attention Network for Efficient Super-Resolution \
-**C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen\\
-[CVPR'2024 Under Review]()
+**C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen, Y. Zou, Y. Liu, X. Yin, K. Zuo\\
+[CVPR'2024 Under Review]
 
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu \\
