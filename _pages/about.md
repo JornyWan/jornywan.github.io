@@ -23,7 +23,7 @@ Prior to pursuing my Master's degree, I conducted research in the biomedical fie
 
 I have a strong interest in applying AI within the area of biomedicine (**Healthcare**). My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of **Computer Vision**.
 
-I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by [Cheng Ding]([https://www.nursing.emory.edu/initiatives/center-for-data-science](https://www.nursing.emory.edu/faculty-staff/ran-xiao)) and [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
+I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by Professor [Ran Xiao]([https://www.nursing.emory.edu/initiatives/center-for-data-science](https://www.nursing.emory.edu/faculty-staff/ran-xiao)) and [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
 
 I am enthusiastic about further exploring these areas and enhancing my expertise. If you're interested in connecting, please feel free to contact me at **c.wan@gatech.edu**.
 
