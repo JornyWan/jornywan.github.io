@@ -38,15 +38,15 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 # 📝 Publications, Workshops
 - Swift Parameter-free Attention Network for Efficient Super-Resolution \
 **C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen, Y. Zou, Y. Liu, X. Yin, K. Zuo\\
-[CVPR'2024 Under Review](https://arxiv.org/abs/2311.12770)
+[Under Review](https://arxiv.org/abs/2311.12770)
 
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu \\
-[ICLR'2024 Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
+[Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
 **C. Wan**, C. Xie, L. Liu, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
-[ICASSP'2024 Under Review]
+[Under Review]
 
 - MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
