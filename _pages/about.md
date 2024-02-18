@@ -41,7 +41,7 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 [Under Review](https://arxiv.org/abs/2311.12770)
 
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
-Z. Li\*, Z. Li\*, M. Wu\*, **C. Wan**\*, C. Wu \\
+Z. Li\*, Z. Li\*, **C. Wan**\*, M. Wu\*, C. Wu \\
 [Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
