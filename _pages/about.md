@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! I'm Cheng Wan, a second-year Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech.
 
-Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr.[Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
+Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr. [Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
 
 I have a strong interest in applying AI within the area of biomedicine (**Healthcare**). My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of **Computer Vision**.
 
@@ -29,7 +29,8 @@ I am enthusiastic about further exploring these areas and enhancing my expertise
 
 For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 
-**I am actively looking for a Ph.D. position!**
+
+**I am actively looking for a Research Intern position!**
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
