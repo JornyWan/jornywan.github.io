@@ -39,7 +39,7 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 # 📝 Publications, Workshops
 - Swift Parameter-free Attention Network for Efficient Super-Resolution \
 **C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen, Y. Zou, Y. Liu, X. Yin, K. Zuo\\
-[Under Review](https://arxiv.org/abs/2311.12770)
+[arxiv](https://arxiv.org/abs/2311.12770)
 
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, **C. Wan**\*, M. Wu\*, C. Wu \\
@@ -49,10 +49,10 @@ Z. Li\*, Z. Li\*, **C. Wan**\*, M. Wu\*, C. Wu \\
 **C. Wan**, C. Xie, L. Liu, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
 [Under Review]
 
-- MiOTS (MiOTS-ST): A Single-object Multi-target Tracking and Segmentation Model \
+- MiOTS: A Single-object Multi-target Tracking and Segmentation Model \
 **C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
-[ICCV'2023 Workshop] *Visual Object Tracking and Segmentation Challenge*\\
-[Results](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf) (Top3 in Robust, Top10 in Quality)
+[ICCV'2023 Workshop] \\
+[Paper](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf) (Top3 in Robust, Top10 in Quality)
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
