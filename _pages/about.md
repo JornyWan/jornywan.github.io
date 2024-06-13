@@ -44,40 +44,31 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 # 📝 Publications
 - Due to the double-blind rules of the conference, this information is not disclosed. \
 anonymous author, **C. Wan**\*, anonymous author, anonymous author, anonymous author\\
-OJEMB 2024 (Under Review) \\
+OJEMB 2024 (Under Review) 
 
 - Due to the double-blind rules of the conference, this information is not disclosed. \
 **C. Wan**\*, anonymous author, anonymous author, anonymous author, anonymous author\\
-BHI 2024 (Under Review) \\
+BHI 2024 (Under Review) 
 
-- Swift Parameter-free Attention Network for Efficient Super-Resolution \
+- [Swift Parameter-free Attention Network for Efficient Super-Resolution](https://arxiv.org/abs/2311.12770) \
 **C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen, Y. Zou, Y. Liu, X. Yin, K. Zuo\\
-CVPR 2024 Workshop (Winner Award at NTIRE) (Oral) \\
-[Paper](https://arxiv.org/abs/2311.12770)
+CVPR 2024 Workshop (Winner Award at NTIRE) (Oral) 
 
-- Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search \
+- [Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search](https://arxiv.org/abs/2403.10413) \
 H. Yu, **C. Wan**, M. Liu, D. Chen, B. Xiao, X. Dai\\
-Preprint \\
-[Paper](https://arxiv.org/abs/2403.10413)
+Preprint 
 
-- Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
+- [Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective](https://openreview.net/pdf?id=RzOm9oOSzm) \
 Z. Li\*, Z. Li\*, **C. Wan**\*, M. Wu\*, C. Wu \\
-Preprint \\
-[Paper](https://openreview.net/pdf?id=RzOm9oOSzm)
+Preprint 
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
 **C. Wan**, C. Xie, L. Liu, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
 Under Review
 
-- Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
+- [Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf) \
 C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
-EMBC 2023 \\
-[Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
-
-- Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
-X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu \\
-*Journal of Integration Technology, 2022* \\
-[Paper](https://jcjs.siat.ac.cn/jcjsen/article/abstract/202302004?st=search)
+EMBC 2023 
 
 # 🏆 Challenges
 - CVPR 2024: NTIRE Efficient Super-Resolution Challenge (ESR) \
