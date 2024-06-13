@@ -33,36 +33,67 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 **I am actively looking for a Research Intern position in Tech companies!**
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
-- *2023.03*: &nbsp;🎉🎉 I join [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), research on AI for healthcare, supervised by Professor [Ran Xiao](https://www.nursing.emory.edu/initiatives/center-for-data-science) and Professor [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu).  
+- \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 16th, see you in **Seattle**!
+- \[24.04\] 🎉 Our [paper](https://arxiv.org/abs/2311.12770) is accepted to CVPR 2024 Workshop!
+- \[24.03\] 🏆 We won the **1st place** in CVPR 2024 NTIRE Efficient Super-Resolution Challenge (ESR) -> [Challenge Report](https://arxiv.org/abs/2404.10343)
+- \[24.03\] 🏆 We won the **1st place** in CVPR 2024 NTIRE Image Super-Resolution(x4) Challenge (SRx4) -> [Challenge Report](https://arxiv.org/abs/2404.09790)
+- \[24.03\] 🥈 We won the **2nd place** in CVPR 2024 NTIRE RAW Image Super-Resolution Challenge (RawSR) -> [Challenge Report](https://arxiv.org/abs/2404.16223)
+- \[24.03\] 🥉 We won the **3rd place** in CVPR 2024 AIS Real-Time Image Super-Resolution Challenge (RTSR) -> [Challenge Report](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html)
+  
 
-# 📝 Publications, Workshops
+# 📝 Publications
+- Due to the double-blind rules of the conference, this information is not disclosed. \
+anonymous author, **C. Wan**\*, anonymous author, anonymous author, anonymous author\\
+OJEMB 2024 (Under Review) \\
+
+- Due to the double-blind rules of the conference, this information is not disclosed. \
+**C. Wan**\*, anonymous author, anonymous author, anonymous author, anonymous author\\
+BHI 2024 (Under Review) \\
+
 - Swift Parameter-free Attention Network for Efficient Super-Resolution \
 **C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen, Y. Zou, Y. Liu, X. Yin, K. Zuo\\
-[arxiv](https://arxiv.org/abs/2311.12770)
+CVPR 2024 Workshop (Winner Award at NTIRE) (Oral) \\
+[Paper](https://arxiv.org/abs/2311.12770)
+
+- Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search \
+H. Yu, **C. Wan**, M. Liu, D. Chen, B. Xiao, X. Dai\\
+Preprint
+[Paper](https://arxiv.org/abs/2403.10413)
 
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, **C. Wan**\*, M. Wu\*, C. Wu \\
-[Under Review](https://openreview.net/pdf?id=RzOm9oOSzm)
+Preprint
+[Paper](https://openreview.net/pdf?id=RzOm9oOSzm)
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
 **C. Wan**, C. Xie, L. Liu, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
-[Under Review]
-
-- MiOTS: A Single-object Multi-target Tracking and Segmentation Model \
-**C. Wan**, H. Yu, W. Yu, D. An, K. He, A. Xiao, C. Deng, J. Dong, M. Xu, X. Yin, K. Zuo \\
-[ICCV'2023 Workshop] \\
-[Paper](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf) (Top3 in Robust, Top10 in Quality)
+Under Review
 
 - Effects of Pulse Transit Time and Pulse Arrival Time on Cuff-less Blood Pressure Estimation: A Comparison Study with Multiple Experimental Interventions \
 C. Xie, **C. Wan**, Y. Wang, J. Song, D. Wu, and Y. Li, _Senior Member, IEEE_ \\
-[EMBC'2023] _Conference of the IEEE Engineering in Medicine and Biology Society_\\
+EMBC 2023 \\
 [Paper](https://arinex.com.au/EMBC/pdf/full-paper_1245.pdf)
 
 - Cuffless Continuous Blood Pressure Measurement Method Based on Multi-Parameter Feature Fusion \
 X. Jin, **C. Wan**, C. Xie, C. Liu, and D. Wu \\
 *Journal of Integration Technology, 2022* \\
 [Paper](https://jcjs.siat.ac.cn/jcjsen/article/abstract/202302004?st=search)
+
+# 🏆 Challenges
+- CVPR 2024: NTIRE Efficient Super-Resolution Challenge (ESR) \
+**1st place** [Report](https://arxiv.org/abs/2404.10343)
+
+- CVPR 2024: NTIRE Image Super-Resolution (×4) Challenge (SRx4) \
+**1st place** [Report](https://arxiv.org/abs/2404.09790)
+
+- CVPR 2024: NTIRE Raw Image Super-Resolution Challenge (RawSR) \
+**2nd place** [Report](https://arxiv.org/abs/2404.16223)
+
+- CVPR 2024: AIS Real-Time Image Super-Resolution Challenge (RTSR) \
+**3rd place** [Report](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html)
+
+- ICCV 2023: The First Visual Object Tracking Segmentation Challenge (VOTS) \
+**3rd in Robust track** [Report](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf)\\
 
 # 📝 Open-Source Projects
 - MCD-Net: Towards Real-World RGB-D Video Inpainting \
