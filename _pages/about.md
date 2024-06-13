@@ -30,7 +30,7 @@ I am enthusiastic about further exploring these areas and enhancing my expertise
 For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 
 
-**I am actively looking for a Research Intern position!**
+**I am actively looking for a Research Intern position in Tech companies!**
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 I collaborate with [Hongyuan Yu](https://hongyuanyu.github.io/) at Xiaomi Inc. and [Weichen Yu](https://weichen-yu.github.io/) to participate in VOTS2023 Chanllenge, supervised by Professor [Min Xu](https://xulabs.github.io/min-xu/) at [CMU]().
