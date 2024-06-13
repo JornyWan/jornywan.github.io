@@ -57,12 +57,12 @@ CVPR 2024 Workshop (Winner Award at NTIRE) (Oral) \\
 
 - Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search \
 H. Yu, **C. Wan**, M. Liu, D. Chen, B. Xiao, X. Dai\\
-Preprint
+Preprint \\
 [Paper](https://arxiv.org/abs/2403.10413)
 
 - Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective \
 Z. Li\*, Z. Li\*, **C. Wan**\*, M. Wu\*, C. Wu \\
-Preprint
+Preprint \\
 [Paper](https://openreview.net/pdf?id=RzOm9oOSzm)
 
 - TabNet: Muiti-Scenario Personalized Time Series Attention-based Blood Pressure Forecasting Network \
