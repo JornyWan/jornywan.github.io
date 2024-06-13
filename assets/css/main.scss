@@ -107,3 +107,13 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// 去除链接的下划线
+a {
+    text-decoration: none;
+}
+
+// 鼠标悬停或聚焦时添加下划线，以提高用户交互性
+a:hover, a:focus {
+    text-decoration: underline;
+}
