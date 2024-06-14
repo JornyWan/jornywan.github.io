@@ -44,11 +44,11 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 # 📝 Publications
 (\* means co-first author / equal contributions)
 
-- Due to the double-blind rules of the conference, this information is not disclosed. \
+- [Due to the double-blind rules of the journal, this information is not disclosed.](https://jornywan.github.io/) \
 anonymous author, **C. Wan**\*, anonymous author, anonymous author, anonymous author\\
 OJEMB 2024 (Under Review) 
 
-- Due to the double-blind rules of the conference, this information is not disclosed. \
+- [Due to the double-blind rules of the conference, this information is not disclosed.](https://jornywan.github.io/) \
 **C. Wan**\*, anonymous author, anonymous author, anonymous author, anonymous author\\
 BHI 2024 (Under Review) 
 
