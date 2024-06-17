@@ -89,13 +89,17 @@ EMBC 2023
 **3rd in Robust track** [Report](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf)\\
 
 # 📝 Open-Source Projects
+- [RITA: A Real-time Interactive Talking Avatars Framework](https://jornywan.github.io/) \
+**C. Wan**\*, C. Lin\*, Y. Cao\* \\
+Preprint (CVPR 2024 Demo)
+
 - MCD-Net: Towards Real-World RGB-D Video Inpainting \
 J. Hou, **C. Wan** \\
 Our contribution can be briefly summarized as a new model **MCD-Net** and a new dataset **VID Dataset**. \\
 [Project](https://github.com/JCATCV/MCD-Net) | [Dataset](https://pan.baidu.com/s/1q9ys6ITxQgtfgYltQbdyvA?pwd=lor3) (**Welcome to use our VID Dataset**)
 
 - Learning Chess from Transformer-Based Language Model \
-**C. Wan**, N. Wang*, C. Deng* \\
+**C. Wan**, N. Wang\*, C. Deng\* \\
 Chess can be a testbed for evaluating language models on world state tracking. \\
 [Project](https://github.com/JornyWan/learning-chess-blindfolded)
 
