@@ -76,7 +76,7 @@ EMBC 2023
 **3rd place** [Report](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html)
 
 - ICCV 2023: The First Visual Object Tracking Segmentation Challenge (VOTS) \
-**3rd in Robust track** [Report](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf)\\
+**3rd in Robust track** [Report](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf)
 
 # 📝 Open-Source Projects
 - [RITA: A Real-time Interactive Talking Avatars Framework](https://arxiv.org/abs/2406.13093) \
@@ -93,24 +93,11 @@ Our contribution can be briefly summarized as a new model **MCD-Net** and a new 
 Chess can be a testbed for evaluating language models on world state tracking. \\
 [Project](https://github.com/JornyWan/learning-chess-blindfolded)
 
-# 🎖 Honors and Awards
-- *2022.08* Merit Student Scholarship, Georgia Institute of Technology. 
-- *2022.07* Outstanding Scholarship (Top1), Nanchang Hangkong University.
-- *2021.07* Outstanding Scholarship (Top10), Nanchang Hangkong University.
-
-# 📖 Educations
-- *2022.08 - now*, Master's degree, Georgia Institute of Technology.
-- *2021.11 - 2022.07*, Visiting Student, SIAT, Chinese Academic of Science.
-- *2018.09 - 2022.07*, Bachelor's degree, Nanchang Hangkong University.
-
-# 💻 Internships
-- *2021.11 - 2022.07*, [SIAT, CAS](https://english.siat.ac.cn/), China.
-- *2021.06 - 2021.08*, [ECCOM](https://www.eccom.com/en/), China.
 
 # 💬 Fun Facts
 - 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and playing all kinds of balls sports.
-- 🎤 I used to hold 3 livehouse shows for singing, more than 400 people were there.
-- 🏆 I won 3rd place in the Intel Cup of CSGO in China.
+- 🎤 I used to hold 3 live music shows, more than 400 people were there!
+- 🎮 I won 3rd place in the Intel Cup of CSGO in China.
 
 Thank you for taking the time to learn about me!
 
