@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cheng Wan"
-description              : "Interests in AI for Medicine, Computer Vision and Multimodal."
+description              : "AI for Medicine, Computer Vision and Multimodal."
 repository               : "JornyWan/jornywan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cheng Wan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Georgia Tech"
+  bio              : "Cornell Tech, Prev. Georgia Tech"
   location         : "Atlanta, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "cwan38@gatech.edu"
+  email            : "jouiney666@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
