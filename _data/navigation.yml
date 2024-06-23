@@ -6,9 +6,12 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications, Competitions"
-    url: "/#-publications-competitions"
-  
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Challenges"
+    url: "/#-challenges"
+    
   - title: "Open-Source Projects"
     url: "/#-open-source-projects"
  
