@@ -17,20 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm Cheng Wan, a second-year Master's student in Electrical and Computer Engineering (ECE) at Georgia Tech.
+Hi there! I'm an incoming ECE Ph.D. Student at [Cornell Tech](https://tech.cornell.edu/) in Fall 2024.
 
-Prior to pursuing my Master's degree, I conducted research in the biomedical field at the Shenzhen Institute of Advanced Technology of the Chinese Academy of Science ([SIAT, CAS](https://english.siat.ac.cn/)) supervised by Dr. [Dan Wu](https://www.bit-siat.com/en/index.php?s=/Show/index/cid/12/id/16.html) and Professor [Ye Li](http://www.bit-siat.com/en/index.php?s=/Show/index/cid/10/id/2.html), focusing on blood pressure measurement.
+I used to conduct research in Computer Vision at [CMU CS](), and in AI4Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
 
-I have a strong interest in applying AI within the area of biomedicine (**Healthcare**). My research interests revolve around the application of Machine Learning and Deep Learning techniques, particularly in the domains of **Computer Vision**.
+I am interested in AI for Medicine, Multimodal Learning, and Genarative AI.
 
-I am now a research assistant in HuLab at [HuLab](https://www.nursing.emory.edu/initiatives/center-for-data-science) at [Emory](), still research on biomedical engineer area supervised by Professor [Ran Xiao]([https://www.nursing.emory.edu/initiatives/center-for-data-science](https://www.nursing.emory.edu/faculty-staff/ran-xiao)) and [Xiao Hu](https://www.nursing.emory.edu/faculty-staff/xiao-hu). 
-
-I am enthusiastic about further exploring these areas and enhancing my expertise. If you're interested in connecting, please feel free to contact me at **c.wan@gatech.edu**.
-
-For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
-
-
-**I am actively looking for a Research Intern position in Tech companies!**
+If you're interested at anything, please feel free to contact me at **jouiney666@gmail.com**.
 
 # 🔥 News
 - \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
