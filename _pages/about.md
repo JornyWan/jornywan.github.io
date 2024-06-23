@@ -35,7 +35,7 @@ For more details, you can view my [Curriculum Vitae](pdfs/mycv.pdf).
 # 🔥 News
 - \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
 - \[24.04\] 🎉 Our [paper](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wan_Swift_Parameter-free_Attention_Network_for_Efficient_Super-Resolution_CVPRW_2024_paper.html) is accepted to CVPR 2024 Workshop!
-- \[24.03\] 🏆 We won 2 **championship**, a **runner-up** and a **3rd place**  in CVPR 2024 NTIRE ([ESR]((https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.html)), [SRx4](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Chen_NTIRE_2024_Challenge_on_Image_Super-Resolution_x4_Methods_and_Results_CVPRW_2024_paper.html), [RawSR](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Conde_Deep_RAW_Image_Super-Resolution._A_NTIRE_2024_Challenge_Survey_CVPRW_2024_paper.html)) and AIS ([RTSR](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html))
+- \[24.03\] 🏆 We won 2 **championships**, a **runner-up** and a **3rd place**  in CVPR 2024 NTIRE ([ESR](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.html), [SRx4](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Chen_NTIRE_2024_Challenge_on_Image_Super-Resolution_x4_Methods_and_Results_CVPRW_2024_paper.html), [RawSR](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Conde_Deep_RAW_Image_Super-Resolution._A_NTIRE_2024_Challenge_Survey_CVPRW_2024_paper.html)) and AIS ([RTSR](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html))
   
 
 # 📝 Publications
@@ -88,7 +88,7 @@ EMBC 2023
 # 📝 Open-Source Projects
 - [RITA: A Real-time Interactive Talking Avatars Framework](https://arxiv.org/abs/2406.13093) \
 **C. Wan**\*, C. Lin\*, Y. Cao\* \\
-Preprint (CVPR 2024 Demo)
+Preprint (CVPR 2024 Demo Track)
 
 - MCD-Net: Towards Real-World RGB-D Video Inpainting \
 J. Hou, **C. Wan** \\
