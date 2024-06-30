@@ -19,11 +19,11 @@ redirect_from:
 
 Hi there! I'm an incoming ECE Ph.D. Student at [Cornell Tech](https://tech.cornell.edu/) in Fall 2024.
 
-I used to conduct research in Computer Vision at [CMU CS](), and in AI4Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
+I used to conduct research in Computer Vision at [CMU CS](), also in AI4Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
 
-I am interested in AI for Medicine, Multimodal Learning, and Genarative AI.
+I am now interested in AI for Medicine, Genarative AI, and Multimodal Learning.
 
-If you're interested at anything, please feel free to contact me at **jouiney666@gmail.com**.
+If you're interested at anything, please feel free to contact me at [Email](jouiney666@gmail.com)
 
 # 🔥 News
 - \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
@@ -36,15 +36,15 @@ If you're interested at anything, please feel free to contact me at **jouiney666
 
 - [Due to the double-blind rules of the journal, this information is not disclosed.](https://jornywan.github.io/) \
 anonymous author, **C. Wan**\*, anonymous author, anonymous author, anonymous author\\
-OJEMB 2024 (Under Review) 
+ICML 2024 ML4LMS (OJEMB 2024 Under Review) 
 
 - [Due to the double-blind rules of the conference, this information is not disclosed.](https://jornywan.github.io/) \
 **C. Wan**\*, anonymous author, anonymous author, anonymous author, anonymous author\\
-BHI 2024 (Under Review) 
+BHI 2024 Under Review
 
 - [Swift Parameter-free Attention Network for Efficient Super-Resolution](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wan_Swift_Parameter-free_Attention_Network_for_Efficient_Super-Resolution_CVPRW_2024_paper.html) \
 **C. Wan**\*, H. Yu\*, Z. Li\*, Y. Chen, Y. Zou, Y. Liu, X. Yin, K. Zuo\\
-CVPR 2024 Workshop (Winner Award at NTIRE) (Oral) 
+CVPR 2024 Workshop (Winner Award & Oral at NTIRE)
 
 - [Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search](https://arxiv.org/abs/2403.10413) \
 H. Yu, **C. Wan**, M. Liu, D. Chen, B. Xiao, X. Dai\\
@@ -80,8 +80,8 @@ EMBC 2023
 
 # 📝 Open-Source Projects
 - [RITA: A Real-time Interactive Talking Avatars Framework](https://arxiv.org/abs/2406.13093) \
-**C. Wan**\*, C. Lin\*, Y. Cao\* \\
-Preprint (CVPR 2024 Demo Track)
+C. Lin\*, **C. Wan**\*, Y. Cao\* S. Chen\* \\
+CVPR 2024 Demo Track
 
 - MCD-Net: Towards Real-World RGB-D Video Inpainting \
 J. Hou, **C. Wan** \\
