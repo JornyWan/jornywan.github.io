@@ -80,7 +80,7 @@ EMBC 2023
 
 # 📝 Open-Source Projects
 - [RITA: A Real-time Interactive Talking Avatars Framework](https://arxiv.org/abs/2406.13093) \
-C. Lin\*, **C. Wan**\*, Y. Cao\* S. Chen\* \\
+C. Lin\*, **C. Wan**\*, Y. Cao\*, S. Chen\* \\
 CVPR 2024 Demo Track
 
 - MCD-Net: Towards Real-World RGB-D Video Inpainting \
