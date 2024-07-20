@@ -23,7 +23,7 @@ I used to conduct research in Computer Vision at [CMU CS](), also in AI4Healthca
 
 I am now interested in AI for Medicine, Genarative AI, and Multimodal Learning.
 
-If you're interested at anything, please feel free to contact me at [Email](jouiney666@gmail.com).
+If you're interested at anything, please feel free to contact me at: jouiney666 at gmail dot com.
 
 # 🔥 News
 - \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
