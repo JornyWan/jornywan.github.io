@@ -78,7 +78,7 @@ EMBC 2023
 - ICCV 2023: The First Visual Object Tracking Segmentation Challenge (VOTS) \
 **3rd in Robust track** [Report](https://openaccess.thecvf.com/content/ICCV2023W/VOTS/papers/Kristan_The_First_Visual_Object_Tracking_Segmentation_VOTS2023_Challenge_Results_ICCVW_2023_paper.pdf)
 
-# 📝 Open-Source Projects
+# 📝 Demos/Projects
 - [RITA: A Real-time Interactive Talking Avatars Framework](https://arxiv.org/abs/2406.13093) \
 C. Lin\*, **C. Wan**\*, Y. Cao\*, S. Chen\* \\
 CVPR 2024 Demo Track
