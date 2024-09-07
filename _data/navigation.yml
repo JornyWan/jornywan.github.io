@@ -6,14 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
+  - title: "Selected Publications"
     url: "/#-publications"
-
-  - title: "Challenges"
-    url: "/#-challenges"
-    
-  - title: "Open-Source Projects"
-    url: "/#-open-source-projects"
 
   - title: "Fun Facts"
     url: "/#-fun-facts"
