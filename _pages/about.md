@@ -38,7 +38,7 @@ CVPR 2024 Workshop (Winner Award & Oral at NTIRE)
 
 # 💬 Fun Facts
 - 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and playing all kinds of balls sports.
-- 🎤 I used to hold 3 live music shows, more than 400 people were there!
+- 🎤 I used to be a vocalist in a band, we performed live music shows with more than 400 people in the audience.
 - 🎮 I won 3rd place in the Intel Cup of CSGO in China.
 
 Thank you for taking the time to learn about me!
