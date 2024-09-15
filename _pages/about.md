@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm a 1st year ECE Ph.D. Student at [Cornell Tech](https://tech.cornell.edu/) in Fall 2024, previously working in Computer Vision at [CMU CS](), also in AI for Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
+Hi there! I'm a 1st year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/) in Fall 2024, previously working in Computer Vision at [CMU CS](), also in AI for Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
 
 I am now interested in AI for Medicine, Genarative AI, and Multimodal Learning.
 
