@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! I'm a 1st year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/) in Fall 2024, previously working in Computer Vision at [CMU CS](), also in AI for Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
 
-I am now interested in AI for Medicine, Genarative AI, and Multimodal Learning.
+I am currently working on AI for Medicine, Generative Model, and Multimodal Learning.
 
 If you're interested at anything, please feel free to contact me at: jouiney666 at gmail dot com.
 
