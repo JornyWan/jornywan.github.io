@@ -33,7 +33,7 @@ If you're interested at anything, please feel free to contact me at: jouiney666 
 (\* means co-first author / equal contributions)
 - [Advancing Sleep Disorder Diagnostics: A Transformer-based EEG Model for Sleep Stage Classification and OSA Prediction](https://openreview.net/forum?id=i8ZCfh8hTD#discussion) \
 **Cheng Wan**, Micky C. Nnamdi, Wenqi Shi, Benjamin Smith, Chad Purnell, May Dongmei Wang\\
-BHI 2024 (Oral)
+BHI 2024 (Oral, 8% from accepted papers)
 
 - [Swift Parameter-free Attention Network for Efficient Super-Resolution](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wan_Swift_Parameter-free_Attention_Network_for_Efficient_Super-Resolution_CVPRW_2024_paper.html) \
 **Cheng Wan**\*, Hongyuan Yu\*, Zhiqi Li\*, Yihang Chen, Yajun Zou, Yuqing Liu, Xuanwu Yin, Kunlong Zuo\\
