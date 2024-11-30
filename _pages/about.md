@@ -40,7 +40,7 @@ BHI 2024 (Oral, 8% from accepted papers)
 CVPR 2024 NTIRE (Winner Award and Oral at NTIRE workshop)
 
 # 💬 Fun Facts
-- 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and playing all kinds of balls sports.
+- 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and different ball sports.
 - 🎤 I used to be a vocalist in a band, we performed live music shows with more than 400 people in the audience.
 - 🎮 I won 3rd place in the Intel Cup of CSGO in China.
 
