@@ -24,6 +24,7 @@ I am currently working on AI for Medicine, Generative Model, and Multimodal Lear
 If you're interested at anything, please feel free to contact me at: jouiney666 at gmail dot com.
 
 # 🔥 News
+- \[24.12\] 🎉 One [paper](https://arxiv.org/abs/2409.04704) is accepted by at ICASSP 2024!
 - \[24.11\] 🎉 One previous [paper](https://ieeexplore.ieee.org/document/10783032) is accepted by **IEEE JBHI**!
 - \[24.10\] 🎉 One [paper](https://openreview.net/forum?id=i8ZCfh8hTD#discussion) is selected as **Oral Presentation** at BHI 2024!
 - \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
@@ -39,6 +40,10 @@ JBHI (Previous: BHI Oral, 8% from accepted papers)
 - [Swift Parameter-free Attention Network for Efficient Super-Resolution](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Wan_Swift_Parameter-free_Attention_Network_for_Efficient_Super-Resolution_CVPRW_2024_paper.html) \
 **Cheng Wan**\*, Hongyuan Yu\*, Zhiqi Li\*, Yihang Chen, Yajun Zou, Yuqing Liu, Xuanwu Yin, Kunlong Zuo\\
 CVPR 2024 NTIRE (Winner Award and Oral at NTIRE workshop)
+
+- [A Multi-scenario Attention-based Generative Model for Personalized Blood Pressure Time Series Forecasting](https://arxiv.org/abs/2409.04704) \
+**Cheng Wan**, Chenjie Xie, Longfei Liu, Dan Wu, Ye Li\\
+ICASSP 2024
 
 # 💬 Fun Facts
 - 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and different ball sports.
