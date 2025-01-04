@@ -45,6 +45,10 @@ CVPR 2024 NTIRE (Winner Award and Oral at NTIRE workshop)
 **Cheng Wan**, Chenjie Xie, Longfei Liu, Dan Wu, Ye Li\\
 ICASSP 2024
 
+# 📖 Teaching
+- **Teaching Assistant**: Foundations Machine Learning (ECE 5200/3200) \
+Spring 2025 @ Cornell University
+  
 # 🛠️ Services
 - **Reviewer**: ICML 2025, AISTATS 2025, ICLR 2025, NeurIPS 2024, ICML 2024 AI4Science Workshop.
   
