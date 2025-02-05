@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), previously working on Computer Vision at [CMU CS](), also on AI for Healthcare at [Georgia Tech](), [Emory](), and [SIAT CAS]().
+Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), previously working on Computer Vision at [CMU CS](), also on AI for Healthcare at [Georgia Tech](), [Emory]().
 
 My research is focused on AI for Medicine especially in 3D vision learning and understanding.
 
