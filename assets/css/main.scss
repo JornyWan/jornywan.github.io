@@ -117,3 +117,19 @@ a {
 a:hover, a:focus {
     text-decoration: underline;
 }
+
+.clustrmaps-container {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* 假设地球仪默认大小是 600×600 时，你想缩放为 50% 大小： */
+.clustrmaps-scale-fix {
+  transform: scale(0.5);      /* 0.5 = 50% */
+  transform-origin: 0 0;      /* 缩放基点放在左上角 */
+  width: 600px;               /* 这里写上原始(或略大一些)宽度以便正确缩放 */
+  height: 600px;
+}
+
