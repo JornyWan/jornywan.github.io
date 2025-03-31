@@ -120,21 +120,16 @@ a:hover, a:focus {
 
 
 .clustrmaps-container {
-  width: 300px;            /* 想要显示的最终宽度 */
-  height: 300px;           /* 想要显示的最终高度 */
-  position: relative;      /* 给绝对定位留上下文 */
-  overflow: hidden;        /* 超出容器隐藏 */
-  border: 1px dashed red;  /* (调试用)看看容器实际在哪儿，调试后可删除 */
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
 }
 
+/* 假设地球仪默认大小是 600×600 时，你想缩放为 50% 大小： */
 .clustrmaps-scale-fix {
-  width: 600px;             /* 这里要比上面大，可以 600x600 或更大 */
+  transform: scale(0.5);      /* 0.5 = 50% */
+  transform-origin: 0 0;      /* 缩放基点放在左上角 */
+  width: 600px;               /* 这里写上原始(或略大一些)宽度以便正确缩放 */
   height: 600px;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  /* 注意 transform 的顺序，从左到右依次应用：先 translate 再 scale */
-  transform: translate(-50%, -50%) scale(0.5);
-  transform-origin: center center; 
-  background: rgba(0, 255, 0, 0.1); /* (调试用)看看区域大小，调试后可删除 */
 }
