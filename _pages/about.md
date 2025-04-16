@@ -50,7 +50,7 @@ ICASSP 2024
 Spring 2025 @ Cornell University
   
 # 🛠️ Services
-- **Reviewer**: ICML 2025, AISTATS 2025, ICLR 2025, NeurIPS 2024, ICML 2024 AI4Science Workshop.
+- **Reviewer**: ICML(2025), AISTATS(2025), ICLR(2025), NeurIPS(2024,2025) ICML(2024 AI4Science Workshop).
   
 # 💬 Fun Facts
 - 🚣🏼‍♂️ GT varsity men rowing team, I love rowing, hiking and different ball sports.
