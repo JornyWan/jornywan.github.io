@@ -24,10 +24,10 @@ My research is focused on AI for Medicine especially in 3D vision learning and u
 If you're interested at anything, please feel free to contact me at: jouiney666 at gmail dot com.
 
 # 🔥 News
-- \[24.12\] 🎉 [TABNet](https://arxiv.org/abs/2409.04704) is accepted by at ICASSP 2024!
-- \[24.11\] 🎉 Our [paper](https://ieeexplore.ieee.org/document/10783032) is accepted by **IEEE JBHI**!
-- \[24.10\] 🎉 Our [paper](https://openreview.net/forum?id=i8ZCfh8hTD#discussion) is selected as **Oral Presentation** at BHI 2024!
-- \[24.06\] 🎉 I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
+- \[24.12\] [TABNet](https://arxiv.org/abs/2409.04704) is accepted by at ICASSP 2024!
+- \[24.11\] Our [paper](https://ieeexplore.ieee.org/document/10783032) is accepted by **IEEE JBHI**!
+- \[24.10\] Our [paper](https://openreview.net/forum?id=i8ZCfh8hTD#discussion) is selected as **Oral Presentation** at BHI 2024!
+- \[24.06\] I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
 - \[24.03\] 🏆 We finally get 2 **championships**, a **runner-up** and a **3rd place**  in CVPR 2024 NTIRE ([ESR](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Ren_The_Ninth_NTIRE_2024_Efficient_Super-Resolution_Challenge_Report_CVPRW_2024_paper.html), [SRx4](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Chen_NTIRE_2024_Challenge_on_Image_Super-Resolution_x4_Methods_and_Results_CVPRW_2024_paper.html), [RawSR](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Conde_Deep_RAW_Image_Super-Resolution._A_NTIRE_2024_Challenge_Survey_CVPRW_2024_paper.html)) and AIS ([RTSR](https://openaccess.thecvf.com/content/CVPR2024W/AI4Streaming/html/Conde_Real-Time_4K_Super-Resolution_of_Compressed_AVIF_Images._AIS_2024_Challenge_CVPRW_2024_paper.html))
   
 
