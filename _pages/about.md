@@ -24,7 +24,8 @@ My research is focused on AI for Medicine especially in 3D vision learning and u
 If you're interested at anything, please feel free to contact me at: jouiney666 at gmail dot com.
 
 # 🔥 News
-- \[24.12\] [TABNet](https://arxiv.org/abs/2409.04704) is accepted by at ICASSP 2024!
+- \[25.06\] [WASABI](https://arxiv.org/pdf/2504.21771) is accepted by MICCAI 2025!
+- \[24.12\] [TABNet](https://arxiv.org/abs/2409.04704) is accepted by ICASSP 2024!
 - \[24.11\] Our [paper](https://ieeexplore.ieee.org/document/10783032) is accepted by **IEEE JBHI**!
 - \[24.10\] Our [paper](https://openreview.net/forum?id=i8ZCfh8hTD#discussion) is selected as **Oral Presentation** at BHI 2024!
 - \[24.06\] I will give an **Oral Presentation** at CVPR 2024, NTIRE Workshop at June 17th, see you in **Seattle**!
@@ -33,6 +34,10 @@ If you're interested at anything, please feel free to contact me at: jouiney666 
 
 # 📝 Selected Publications
 (\* means co-first author / equal contributions)
+- [WASABI: A Metric for Evaluating Morphometric Plausibility of Synthetic Brain MRIs](https://arxiv.org/pdf/2504.21771) \
+Bahram Jafrasteh\*, Wei Peng\*, **Cheng Wan**, Yimin Luo, Ehsan Adeli, Qingyu Zhao\\
+MICCAI 2025
+
 - [Advancing Sleep Disorder Diagnostics: A Transformer-based EEG Model for Sleep Stage Classification and OSA Prediction](https://openreview.net/forum?id=i8ZCfh8hTD#discussion) \
 **Cheng Wan**, Micky C. Nnamdi, Wenqi Shi, Benjamin Smith, Chad Purnell, May Dongmei Wang\\
 IEEE J-BHI (BHI Oral, 8% acceptance rate)
