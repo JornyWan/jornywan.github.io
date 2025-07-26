@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ece.cornell.edu/'>ECE Ph.D. Student at Cornell University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cornell University</p>
+    <p>Electrical and Computer Engineering</p>
+    <p>Ithaca, NY 14853</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,23 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), previously working on Computer Vision at CMU CS, also on AI for Healthcare at Georgia Tech and Emory.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research is focused on **AI for Medicine** especially in 3D vision learning and understanding. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you're interested in research collaborations or have any questions, please feel free to contact me at: jouiney666 [at] gmail [dot] com.
+
+## Research Interests
+
+- **AI for Medicine**: Developing intelligent systems for healthcare applications
+- **3D Vision Learning**: Advanced computer vision techniques for 3D data
+- **Multimodal Learning**: Foundations and applications of ML algorithms
+
+---
+
+*For more information about my academic services, teaching experience, and personal interests, please visit the dedicated pages in the navigation menu.*
