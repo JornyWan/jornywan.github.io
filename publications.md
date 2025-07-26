@@ -5,8 +5,6 @@ permalink: /publications/
 description: My academic publications and research work.
 ---
 
-## Selected Publications
-
 <div class="publications">
 
 <div class="publication">
