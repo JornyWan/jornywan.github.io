@@ -5,6 +5,13 @@ permalink: /publications/
 description: My academic publications and research work.
 ---
 
+---
+layout: page
+title: Publications
+permalink: /publications/
+description: My academic publications and research work.
+---
+
 <div class="publications">
 
 <div class="publication">
@@ -36,36 +43,3 @@ description: My academic publications and research work.
 </div>
 
 </div>
-
-<style>
-.publications {
-  margin-top: 2rem;
-}
-
-.publication {
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  border: 1px solid #e1e5e9;
-  border-radius: 8px;
-  background-color: #f8f9fa;
-}
-
-.publication h3 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  color: #2c3e50;
-}
-
-.publication p {
-  margin-bottom: 0.5rem;
-}
-
-.publication a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-.publication a:hover {
-  text-decoration: underline;
-}
-</style>
