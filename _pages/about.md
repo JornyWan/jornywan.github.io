@@ -27,17 +27,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), previously working on Computer Vision at CMU CS, also on AI for Healthcare at Georgia Tech and Emory.
+Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), and I'm honored to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/) and [Qingyu Zhao](https://mini-cornell.github.io/members/qingyu-zhao.html), previously working on Computer Vision at CMU CS, also on AI for Healthcare at Georgia Tech and Emory.
 
-My research is focused on **AI for Medicine** especially in 3D vision learning and understanding. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
+My research is now mainly focused on **AI for Medicine** especially in 3D vision learning and understanding. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
 
 If you're interested in research collaborations or have any questions, please feel free to contact me at: jouiney666 [at] gmail [dot] com.
 
 ## Research Interests
 
-- **AI for Medicine**: Developing intelligent systems for healthcare applications
-- **3D Vision Learning**: Advanced computer vision techniques for 3D data
-- **Multimodal Learning**: Foundations and applications of ML algorithms
+- **AI for Medicine**
+- **3D Vision Learning**
+- **Multimodal Learning**
 
 ---
 
