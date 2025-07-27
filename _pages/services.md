@@ -16,6 +16,7 @@ nav_order: 3
 - AISTATS (International Conference on Artificial Intelligence and Statistics)
 - ICLR (International Conference on Learning Representations)
 - NeurIPS (Conference on Neural Information Processing Systems)
+- NeurIPS AI4Science Workshop
 
 **2024:**
 - NeurIPS (Conference on Neural Information Processing Systems)
