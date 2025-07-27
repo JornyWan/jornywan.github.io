@@ -28,10 +28,11 @@ linkedin_username: chengwanjorny # your LinkedIn user name
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
+scholar_userid: 6P5hV8AAAAJ
 # quora_username: # your Quora username
+x_username: jornywan
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: 6P5hV8AAAAJ
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -44,7 +45,6 @@ scholar_userid: 6P5hV8AAAAJ
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 
