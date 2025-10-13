@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching experience and courses.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 ## 📖 Teaching Experience

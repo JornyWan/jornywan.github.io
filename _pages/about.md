@@ -27,9 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), and I'm honored to be advised by [Prof. Mert Sabuncu](https://sabuncu.engineering.cornell.edu/) and [Prof. Qingyu Zhao](https://mini-cornell.github.io/members/qingyu-zhao.html).
+Hi there! I'm a first-year ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), and I'm honored to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/) and [Qingyu Zhao](https://mini-cornell.github.io/members/qingyu-zhao.html), previously working on Computer Vision at CMU CS, also on AI for Healthcare at Georgia Tech and Emory.
 
-My research is now focusing on **AI for Medicine** especially in 3D vision learning and understanding, previously I'm working on Computer Vision at CMU CS and AI for Healthcare at Georgia Tech and Emory. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
+My research is now mainly focused on **AI for Medicine** especially in 3D vision learning and understanding. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
+
+📄 **[View my full Resume/CV here](/resume/)** or download the [PDF version](/assets/pdf/resume.pdf).
 
 If you're interested in research collaborations or have any questions, please feel free to contact me at: jouiney666 [at] gmail [dot] com.
 
