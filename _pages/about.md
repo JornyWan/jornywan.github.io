@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ECE Ph.D. Student at <a href='https://www.ece.cornell.edu/'>Cornell University</a>. Research interests in AI for Medicine, 3D Vision Learning, and Multimodal Learning.
+subtitle:
 
 profile:
   align: right
@@ -28,5 +28,7 @@ latest_posts:
 ---
 
 Hi there! I'm an ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), and I'm honored to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/) and [Qingyu Zhao](https://mini-cornell.github.io/members/qingyu-zhao.html), previously working on Computer Vision at CMU CS, also on AI for Healthcare at Georgia Tech and Emory.
+
+**Research Interests**: AI for Medicine, 3D Vision Learning, and Multimodal Learning.
 
 My research is now mainly focused on AI for Medicine especially in 3D vision learning and understanding. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
