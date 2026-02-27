@@ -1,3 +1,58 @@
 <div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+  <div class="pub-toggle" style="margin-bottom: 15px;">
+    <button id="btn-selected" class="btn btn-pub active" onclick="togglePubs('selected')">Selected</button>
+    <button id="btn-full" class="btn btn-pub" onclick="togglePubs('full')">Full List</button>
+  </div>
+
+  <div id="selected-papers">
+    {% bibliography --group_by none --query @*[selected=true]* %}
+  </div>
+
+  <div id="full-papers" style="display: none;">
+    {% bibliography --group_by none %}
+  </div>
 </div>
+
+<style>
+  .btn-pub {
+    padding: 6px 18px;
+    border: 1.5px solid var(--global-theme-color, #007bff);
+    border-radius: 20px;
+    background: transparent;
+    color: var(--global-theme-color, #007bff);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.25s ease;
+    margin-right: 6px;
+  }
+  .btn-pub:hover {
+    background: var(--global-theme-color, #007bff);
+    color: white;
+  }
+  .btn-pub.active {
+    background: var(--global-theme-color, #007bff);
+    color: white;
+  }
+</style>
+
+<script>
+  function togglePubs(mode) {
+    var selectedDiv = document.getElementById('selected-papers');
+    var fullDiv = document.getElementById('full-papers');
+    var btnSelected = document.getElementById('btn-selected');
+    var btnFull = document.getElementById('btn-full');
+
+    if (mode === 'selected') {
+      selectedDiv.style.display = 'block';
+      fullDiv.style.display = 'none';
+      btnSelected.classList.add('active');
+      btnFull.classList.remove('active');
+    } else {
+      selectedDiv.style.display = 'none';
+      fullDiv.style.display = 'block';
+      btnSelected.classList.remove('active');
+      btnFull.classList.add('active');
+    }
+  }
+</script>
