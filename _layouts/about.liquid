@@ -58,11 +58,24 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
-      </h2>
+      <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-bottom: 10px;">
+        <h2 style="margin-bottom: 0;">
+          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
+        </h2>
+        <div class="pub-toggle">
+          <button id="btn-selected" class="btn btn-pub active" onclick="togglePubs('selected')">Selected</button>
+          <button id="btn-full" class="btn btn-pub" onclick="togglePubs('full')">Full List</button>
+        </div>
+      </div>
       {% include selected_papers.liquid %}
     {% endif %}
+
+    <!-- Teaching -->
+    <h2>Teaching</h2>
+    <div style="margin-bottom: 20px;">
+      <p><strong>Teaching Assistant</strong>: Foundations Machine Learning (ECE 5200/3200)<br>
+      Spring 2025 @ Cornell University</p>
+    </div>
 
     <!-- Social -->
     {% if page.social %}

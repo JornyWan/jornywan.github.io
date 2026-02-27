@@ -1,9 +1,4 @@
 <div class="publications">
-  <div class="pub-toggle" style="margin-bottom: 15px;">
-    <button id="btn-selected" class="btn btn-pub active" onclick="togglePubs('selected')">Selected</button>
-    <button id="btn-full" class="btn btn-pub" onclick="togglePubs('full')">Full List</button>
-  </div>
-
   <div id="selected-papers">
     {% bibliography --group_by none --query @*[selected=true]* %}
   </div>
