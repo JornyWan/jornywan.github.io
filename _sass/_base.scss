@@ -298,33 +298,57 @@ ul.task-list input[type="checkbox"] {
 // Experience
 
 .experience {
-  margin-bottom: 20px;
+  margin-bottom: 1.5rem;
 
   .exp-item {
     display: flex;
     align-items: flex-start;
     gap: 0.9rem;
+    padding: 0.35rem 0;
   }
 
   .exp-logo {
-    flex: 0 0 auto;
-    width: 2.2rem;
-    height: 2.2rem;
-    margin-top: 0.25rem;
+    flex: 0 0 2rem;
+    width: 2rem;
+    max-width: 2rem;
+    height: 2rem;
+    margin-top: 0.15rem;
     object-fit: contain;
   }
 
-  .exp-body p {
-    margin-bottom: 0.2rem;
+  .exp-body {
+    flex: 1 1 auto;
+    min-width: 0;
   }
 
-  .exp-date {
-    font-size: 0.85rem;
+  .exp-head {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    column-gap: 0.4rem;
+  }
+
+  .exp-role {
+    font-weight: 600;
+  }
+
+  .exp-org::before {
+    content: "\00b7";
+    margin-right: 0.4rem;
     color: var(--global-text-color-light);
   }
 
+  .exp-date {
+    margin-left: auto;
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+    white-space: nowrap;
+  }
+
   .exp-desc {
-    margin-top: 0.35rem;
+    margin: 0.2rem 0 0;
+    font-size: 0.95rem;
+    color: var(--global-text-color-light);
   }
 }
 
