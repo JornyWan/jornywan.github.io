@@ -227,6 +227,107 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Theme toggle (floating, since the site has no nav bar)
+
+.theme-toggle {
+  position: fixed;
+  top: 0.75rem;
+  right: 1rem;
+  z-index: 100;
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+// Social icons, right underneath the profile photo
+
+.profile-social {
+  margin-top: 0.6rem;
+  text-align: center;
+  font-size: 1.25rem;
+  line-height: 1.9;
+
+  a {
+    display: inline-block;
+    padding: 0 0.25rem;
+
+    img {
+      width: 1.2rem;
+      height: 1.2rem;
+      vertical-align: -0.15rem;
+    }
+
+    svg {
+      width: 1.2rem;
+      height: 1.2rem;
+
+      image {
+        width: 1.2rem;
+        height: 1.2rem;
+      }
+    }
+
+    i::before {
+      color: var(--global-text-color);
+      transition-property: all 0.2s ease-in-out;
+    }
+
+    &:hover {
+      text-decoration: none;
+
+      i::before {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+// Section heading with inline controls (e.g. Publications + Selected/Full)
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.6rem;
+
+  h2 {
+    margin-bottom: 0;
+  }
+}
+
+// Experience
+
+.experience {
+  margin-bottom: 20px;
+
+  .exp-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.9rem;
+  }
+
+  .exp-logo {
+    flex: 0 0 auto;
+    width: 2.2rem;
+    height: 2.2rem;
+    margin-top: 0.25rem;
+    object-fit: contain;
+  }
+
+  .exp-body p {
+    margin-bottom: 0.2rem;
+  }
+
+  .exp-date {
+    font-size: 0.85rem;
+    color: var(--global-text-color-light);
+  }
+
+  .exp-desc {
+    margin-top: 0.35rem;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;

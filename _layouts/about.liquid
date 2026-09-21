@@ -32,6 +32,10 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
+        <!-- Social icons, right underneath the profile photo -->
+        {% if page.social %}
+          <div class="profile-social">{% include social.liquid %}</div>
+        {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
@@ -42,26 +46,20 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
-      </h2>
+      <h2>News</h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
+      <h2>latest posts</h2>
       {% include latest_posts.liquid %}
     {% endif %}
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-bottom: 10px;">
-        <h2 style="margin-bottom: 0;">
-          <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Publications</a>
-        </h2>
+      <div class="section-heading">
+        <h2>Publications</h2>
         <div class="pub-toggle">
           <button id="btn-selected" class="btn btn-pub active" onclick="togglePubs('selected')">Selected</button>
           <button id="btn-full" class="btn btn-pub" onclick="togglePubs('full')">Full List</button>
@@ -70,21 +68,30 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Experience -->
+    <h2>Experience</h2>
+    <div class="experience">
+      <div class="exp-item">
+        <img class="exp-logo" src="{{ '/assets/img/adobe_logo.svg' | relative_url }}" alt="Adobe">
+        <div class="exp-body">
+          <p class="exp-title"><strong>Research Intern</strong> · Adobe (Firefly)</p>
+          <p class="exp-date">May 2026 - Aug 2026</p>
+          <p class="exp-desc">
+            Pretraining @ Adobe Firefly. We research the pretraining efficiency of generative foundation models, and
+            also work on RL and OPD.
+          </p>
+        </div>
+      </div>
+    </div>
+
     <!-- Teaching -->
     <h2>Teaching</h2>
     <div style="margin-bottom: 20px;">
-      <p><strong>Teaching Assistant</strong>: Foundations Machine Learning (ECE 5200/3200)<br>
-      Spring 2025 @ Cornell University</p>
+      <p>
+        <strong>Teaching Assistant</strong>: Foundations Machine Learning (ECE 5200/3200)<br>
+        Spring 2025 @ Cornell University
+      </p>
     </div>
-
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
-
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
