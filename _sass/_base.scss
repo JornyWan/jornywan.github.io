@@ -308,11 +308,11 @@ ul.task-list input[type="checkbox"] {
   }
 
   .exp-logo {
-    flex: 0 0 2rem;
-    width: 2rem;
-    max-width: 2rem;
-    height: 2rem;
-    margin-top: 0.15rem;
+    flex: 0 0 2.6rem;
+    width: 2.6rem;
+    max-width: 2.6rem;
+    height: 2.6rem;
+    margin-top: 0.1rem;
     object-fit: contain;
   }
 
@@ -357,7 +357,7 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Lists with a right-aligned date (Awards & Honors, Teaching)
+// Lists with a right-aligned date (Teaching)
 
 .dated-list {
   list-style: none;

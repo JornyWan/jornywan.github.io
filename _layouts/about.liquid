@@ -56,23 +56,11 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-    <!-- Selected papers -->
-    {% if page.selected_papers %}
-      <div class="section-heading">
-        <h2>Publications</h2>
-        <div class="pub-toggle">
-          <button id="btn-selected" class="btn btn-pub active" onclick="togglePubs('selected')">Selected</button>
-          <button id="btn-full" class="btn btn-pub" onclick="togglePubs('full')">Full List</button>
-        </div>
-      </div>
-      {% include selected_papers.liquid %}
-    {% endif %}
-
     <!-- Experience -->
     <h2>Experience</h2>
     <div class="experience">
       <div class="exp-item">
-        <img class="exp-logo" src="{{ '/assets/img/adobe_logo.svg' | relative_url }}" alt="Adobe" width="24" height="24">
+        <img class="exp-logo" src="{{ '/assets/img/adobe_logo.svg' | relative_url }}" alt="Adobe" width="40" height="40">
         <div class="exp-body">
           <div class="exp-head">
             <span class="exp-role">Research Intern</span>
@@ -92,46 +80,17 @@ layout: default
       </div>
     </div>
 
-    <!-- Awards & Honors -->
-    <h2>Awards &amp; Honors</h2>
-    <ul class="dated-list">
-      <li>
-        <span><strong>CVPR NTIRE</strong> Efficient Super-Resolution Challenge &mdash; 1st place &amp; Oral</span>
-        <span class="dated-list-date">2024</span>
-      </li>
-      <li>
-        <span><strong>CVPR NTIRE</strong> Image Super-Resolution (&times;4) Challenge &mdash; 1st place</span>
-        <span class="dated-list-date">2024</span>
-      </li>
-      <li>
-        <span><strong>CVPR NTIRE</strong> Raw Image Super-Resolution Challenge &mdash; 2nd place</span>
-        <span class="dated-list-date">2024</span>
-      </li>
-      <li>
-        <span><strong>CVPR NTIRE</strong> Efficient Super-Resolution Challenge &mdash; 2nd place</span>
-        <span class="dated-list-date">2025</span>
-      </li>
-      <li>
-        <span><strong>ICCV VOTS</strong> Challenge, Robustness Track &mdash; 3rd place</span>
-        <span class="dated-list-date">2023</span>
-      </li>
-      <li>
-        <span>Cornell Ph.D. Fellowship</span>
-        <span class="dated-list-date">2024 &ndash; 2025</span>
-      </li>
-      <li>
-        <span>Merit Student Scholarship, Georgia Tech</span>
-        <span class="dated-list-date">2022 &ndash; 2023</span>
-      </li>
-      <li>
-        <span>Outstanding Scholarship (Top 1), Nanchang Hangkong University</span>
-        <span class="dated-list-date">2021 &ndash; 2022</span>
-      </li>
-      <li>
-        <span>Outstanding Scholarship (Top 10), Nanchang Hangkong University</span>
-        <span class="dated-list-date">2020 &ndash; 2021</span>
-      </li>
-    </ul>
+    <!-- Selected papers -->
+    {% if page.selected_papers %}
+      <div class="section-heading">
+        <h2>Publications</h2>
+        <div class="pub-toggle">
+          <button id="btn-selected" class="btn btn-pub active" onclick="togglePubs('selected')">Selected</button>
+          <button id="btn-full" class="btn btn-pub" onclick="togglePubs('full')">Full List</button>
+        </div>
+      </div>
+      {% include selected_papers.liquid %}
+    {% endif %}
 
     <!-- Academic Service -->
     <h2>Academic Service</h2>
