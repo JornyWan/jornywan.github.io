@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I'm an ECE Ph.D. Student at [Cornell University](https://www.cornell.edu/), and I'm honored to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/) and [Qingyu Zhao](https://mini-cornell.github.io/members/qingyu-zhao.html), previously working on Computer Vision at CMU CS, also on AI for Healthcare at Georgia Tech and Emory.
+Hi there! I'm an ECE Ph.D. student at [Cornell University](https://www.cornell.edu/), and I'm honored to be advised by [Mert Sabuncu](https://sabuncu.engineering.cornell.edu/) and [Qingyu Zhao](https://mini-cornell.github.io/members/qingyu-zhao.html). In Summer 2026, I was a research intern on the [Adobe Firefly](https://firefly.adobe.com/) foundation model team, working on large-scale pre-training and post-training of generative models. Previously, I worked on computer vision at CMU and on AI for healthcare at Georgia Tech and Emory.
 
-**Research Interests**: AI for Medicine, 3D Vision Learning, and Multimodal Learning.
-
-My research is now mainly focused on AI for Medicine especially in 3D vision learning and understanding. I'm passionate about developing intelligent systems that can make a meaningful impact in healthcare.
+**Research Interests**: Generative modeling (diffusion / flow matching, image & video generation), multimodal reasoning, and foundation-model pre-/post-training (on-policy distillation, RL), with applications to medical imaging.

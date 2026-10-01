@@ -79,22 +79,79 @@ layout: default
             <span class="exp-org">Adobe (Firefly)</span>
             <span class="exp-date">May 2026 &ndash; Aug 2026</span>
           </div>
-          <p class="exp-desc">
-            Pretraining @ Adobe Firefly. We research the pretraining efficiency of generative foundation models, and
-            also work on RL and OPD.
-          </p>
+          <ul class="exp-points">
+            <li>
+              <strong>Large-scale pre-training</strong> of Firefly foundation models: data curricula and mixture pipelines over
+              billions of image/video samples; profiled multi-node training bottlenecks to refine training recipes.
+            </li>
+            <li>
+              <strong>Post-training</strong> for image generation with on-policy distillation (OPD) and reinforcement learning.
+            </li>
+          </ul>
         </div>
       </div>
     </div>
 
+    <!-- Awards & Honors -->
+    <h2>Awards &amp; Honors</h2>
+    <ul class="dated-list">
+      <li>
+        <span><strong>CVPR NTIRE</strong> Efficient Super-Resolution Challenge &mdash; 1st place &amp; Oral</span>
+        <span class="dated-list-date">2024</span>
+      </li>
+      <li>
+        <span><strong>CVPR NTIRE</strong> Image Super-Resolution (&times;4) Challenge &mdash; 1st place</span>
+        <span class="dated-list-date">2024</span>
+      </li>
+      <li>
+        <span><strong>CVPR NTIRE</strong> Raw Image Super-Resolution Challenge &mdash; 2nd place</span>
+        <span class="dated-list-date">2024</span>
+      </li>
+      <li>
+        <span><strong>CVPR NTIRE</strong> Efficient Super-Resolution Challenge &mdash; 2nd place</span>
+        <span class="dated-list-date">2025</span>
+      </li>
+      <li>
+        <span><strong>ICCV VOTS</strong> Challenge, Robustness Track &mdash; 3rd place</span>
+        <span class="dated-list-date">2023</span>
+      </li>
+      <li>
+        <span>Cornell Ph.D. Fellowship</span>
+        <span class="dated-list-date">2024 &ndash; 2025</span>
+      </li>
+      <li>
+        <span>Merit Student Scholarship, Georgia Tech</span>
+        <span class="dated-list-date">2022 &ndash; 2023</span>
+      </li>
+      <li>
+        <span>Outstanding Scholarship (Top 1), Nanchang Hangkong University</span>
+        <span class="dated-list-date">2021 &ndash; 2022</span>
+      </li>
+      <li>
+        <span>Outstanding Scholarship (Top 10), Nanchang Hangkong University</span>
+        <span class="dated-list-date">2020 &ndash; 2021</span>
+      </li>
+    </ul>
+
+    <!-- Academic Service -->
+    <h2>Academic Service</h2>
+    <p class="service">
+      <strong>Reviewer</strong>: NeurIPS (2024&ndash;2026), ICLR (2025&ndash;2026), ICML (2025), AISTATS (2025&ndash;2026)<br>
+      <strong>Workshop Reviewer</strong>: NeurIPS AI4Science (2025&ndash;2026), NeurIPS SPIGM (2025&ndash;2026), ICML AI4Science
+      (2024)
+    </p>
+
     <!-- Teaching -->
     <h2>Teaching</h2>
-    <div style="margin-bottom: 20px;">
-      <p>
-        <strong>Teaching Assistant</strong>: Foundations Machine Learning (ECE 5200/3200)<br>
-        Spring 2025 @ Cornell University
-      </p>
-    </div>
+    <ul class="dated-list">
+      <li>
+        <span>
+          <strong>Teaching Assistant (Co-lecturer)</strong>, ECE 5200/3200: Foundations of Machine Learning, Cornell
+          University
+        </span>
+        <span class="dated-list-date">Spring 2025</span>
+      </li>
+    </ul>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

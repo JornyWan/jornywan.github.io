@@ -345,11 +345,51 @@ ul.task-list input[type="checkbox"] {
     white-space: nowrap;
   }
 
-  .exp-desc {
-    margin: 0.2rem 0 0;
+  .exp-points {
+    margin: 0.25rem 0 0;
+    padding-left: 1.1rem;
     font-size: 0.95rem;
     color: var(--global-text-color-light);
+
+    li {
+      margin-bottom: 0.15rem;
+    }
   }
+}
+
+// Lists with a right-aligned date (Awards & Honors, Teaching)
+
+.dated-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    padding: 0.15rem 0;
+  }
+
+  .dated-list-date {
+    flex: 0 0 auto;
+    margin-left: auto;
+    font-size: 0.8rem;
+    color: var(--global-text-color-light);
+    white-space: nowrap;
+  }
+}
+
+.service {
+  margin-bottom: 1.5rem;
+}
+
+// Year headings in the home page's "Full List" of publications
+
+#full-papers h2.bibliography {
+  font-size: 1.25rem;
+  margin-top: 1.25rem;
+  padding-top: 0.5rem;
 }
 
 .post-description {

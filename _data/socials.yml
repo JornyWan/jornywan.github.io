@@ -28,7 +28,7 @@ linkedin_username: chengwanjorny # your LinkedIn user name
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
-scholar_userid: 6P5hV8AAAAJ
+scholar_userid: "-6P5hV8AAAAJ" # quoted: the leading "-" is part of the ID
 # quora_username: # your Quora username
 x_username: jornywan
 # research_gate_profile: # your profile on ResearchGate

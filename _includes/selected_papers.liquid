@@ -1,10 +1,15 @@
+{% comment %}
+  "Selected" renders in _bibliography/papers.bib file order, so keep the
+  selected={true} entries at the top of that file in the order to display.
+  "Full List" is grouped by year (newest first), file order within a year.
+{% endcomment %}
 <div class="publications">
   <div id="selected-papers">
     {% bibliography --group_by none --query @*[selected=true]* %}
   </div>
 
   <div id="full-papers" style="display: none;">
-    {% bibliography --group_by none %}
+    {% bibliography --group_by year %}
   </div>
 </div>
 
