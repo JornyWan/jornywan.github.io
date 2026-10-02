@@ -295,47 +295,42 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Experience
+// Experience: logo | company + date / role / one-line summary
 
 .experience {
   margin-bottom: 1.5rem;
 
   .exp-item {
     display: flex;
-    align-items: flex-start;
-    gap: 0.9rem;
+    align-items: center;
+    gap: 1rem;
     padding: 0.35rem 0;
   }
 
   .exp-logo {
-    flex: 0 0 2.6rem;
-    width: 2.6rem;
-    max-width: 2.6rem;
-    height: 2.6rem;
-    margin-top: 0.1rem;
+    flex: 0 0 3rem;
+    width: 3rem;
+    max-width: 3rem;
+    height: 3rem;
     object-fit: contain;
   }
 
   .exp-body {
     flex: 1 1 auto;
     min-width: 0;
+    line-height: 1.45;
   }
 
   .exp-head {
     display: flex;
     align-items: baseline;
     flex-wrap: wrap;
-    column-gap: 0.4rem;
+    column-gap: 1rem;
   }
 
-  .exp-role {
+  .exp-org {
     font-weight: 600;
-  }
-
-  .exp-org::before {
-    content: "\00b7";
-    margin-right: 0.4rem;
-    color: var(--global-text-color-light);
+    font-size: 1.05rem;
   }
 
   .exp-date {
@@ -345,15 +340,24 @@ ul.task-list input[type="checkbox"] {
     white-space: nowrap;
   }
 
-  .exp-points {
-    margin: 0.25rem 0 0;
-    padding-left: 1.1rem;
+  .exp-role {
     font-size: 0.95rem;
-    color: var(--global-text-color-light);
+  }
 
-    li {
-      margin-bottom: 0.15rem;
-    }
+  .exp-desc {
+    font-size: 0.9rem;
+    color: var(--global-text-color-light);
+  }
+}
+
+// Paper titles are the links (there are no buttons): plain until hovered
+
+.publications ol.bibliography li .title a {
+  color: inherit;
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline;
   }
 }
 
