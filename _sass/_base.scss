@@ -361,6 +361,15 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Authors and venue one step smaller than the (bold) title
+
+.publications ol.bibliography li {
+  .author,
+  .periodical {
+    font-size: 0.875rem;
+  }
+}
+
 // Lists with a right-aligned date (Teaching)
 
 .dated-list {
