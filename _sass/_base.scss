@@ -329,7 +329,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .exp-org {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 1.05rem;
   }
 
@@ -941,7 +941,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;
       }
 
       .author {
@@ -955,8 +955,8 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: 500;
         }
 
         > span.more-authors {
