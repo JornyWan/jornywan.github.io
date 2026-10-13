@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/personal/";
           },
-        },{id: "nav-resume",
-          title: "resume",
-          description: "My curriculum vitae and professional resume.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/resume/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
