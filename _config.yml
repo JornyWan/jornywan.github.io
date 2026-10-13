@@ -186,6 +186,7 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/resume.md # no public resume page; the PDF is only reachable by its direct link
   - purgecss.config.js
   - README.md
   - readme_preview/
