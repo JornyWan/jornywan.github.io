@@ -368,6 +368,11 @@ ul.task-list input[type="checkbox"] {
   .periodical {
     font-size: 0.875rem;
   }
+
+  // Venue lines are plain text in papers.bib and always set in italics
+  .venue {
+    font-style: italic;
+  }
 }
 
 // Lists with a right-aligned date (Teaching)

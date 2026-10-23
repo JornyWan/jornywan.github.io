@@ -175,7 +175,7 @@
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     {% if entry.venue %}
-      <div class="periodical">
+      <div class="periodical venue">
         {{ entry.venue | markdownify | remove: '<p>' | remove: '</p>' | strip }}
       </div>
     {% else %}
