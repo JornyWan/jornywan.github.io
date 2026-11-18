@@ -361,6 +361,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Teaser images appear in the Selected list only; the Full List stays text-only
+
+#full-papers ol.bibliography li .row {
+  > .abbr {
+    display: none;
+  }
+
+  > .col-sm-9 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
 // Authors and venue one step smaller than the (bold) title
 
 .publications ol.bibliography li {
